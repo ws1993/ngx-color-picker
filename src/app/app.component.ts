@@ -46,6 +46,7 @@ export class AppComponent implements AfterViewInit {
   public wrapperColor = '#F04A71';
     
   public angularCompatibility: { ng: string; lib: string }[] = [
+    { ng: '20.x.x', lib: '20.x.x' },
     { ng: '19.x.x', lib: '19.x.x' },
     { ng: '18.x.x', lib: '18.x.x' },
     { ng: '17.x.x', lib: '17.x.x' },
