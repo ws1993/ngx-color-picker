@@ -1,3 +1,8 @@
+<a name="20.0.0"></a>
+## [20.0.0](https://github.com/pIvan/ngx-color-picker/commit/de5540910d1d5e6e55f8aa8aca6cfc5ca44df87b) (2025-06-29)
+### Feature
+### * Angular 20 support
+
 <a name="19.0.2"></a>
 ## [19.0.2](https://github.com/pIvan/ngx-color-picker/commit/6eb389d5a497247106831141f7c4d33e088479ff) (2025-06-19)
 ### * Bug - fixed the issue with alpha emited value
@@ -9,7 +14,7 @@
 <a name="19.0.0"></a>
 ## [19.0.0](https://github.com/pIvan/ngx-color-picker/commit/b179d069baabd848a6d5dd54b7397684aa7e918b) (2024-11-26)
 ### Feature
-### * Angular 18 support
+### * Angular 19 support
 
 
 <a name="18.0.1"></a>
